@@ -57,3 +57,108 @@ console.log(
   graus_fahrenheit
   + "°F");
   
+
+  //8º Questão 
+var idade = 18;
+var atendeAClassificacaoEtaria = (idade >= 18);
+console.log("Ele atende a classificação etária: ",atendeAClassificacaoEtaria);
+
+// 9º Questão
+
+var numero_5 = 4;
+var numero_6 = 7;
+
+numero_5 += 1;
+numero_6 -= 1;
+
+console.log(numero_5);
+console.log(numero_6);
+
+//10º Questão
+
+var preco = 10;
+var desconto = 0.1;
+
+var novo_preco = preco -  ( ( preco / desconto ) / 100 );
+console.log(novo_preco)
+;
+
+
+//11º Questão 
+var nome = "Caio";
+var sobrenome = "Teixeira";
+
+var nome_completo = (nome + " " + sobrenome)
+;
+
+console.log("Nome completo: " + 
+nome_completo
+);
+
+//12ºQuestão
+
+var maior_de_idade = true;
+var habilitado = false;
+console.log(maior_de_idade);
+console.log(habilitado);
+
+
+//13ºQuestão
+
+var numero = 10;
+numero = numero++;
+console.log(numero);
+
+//14ºQuestão
+var forca
+; // N
+var massa = 2
+; // kg
+var aceleracao = 6
+; // m/s²
+
+var forca = massa * aceleracao
+;
+
+console.log
+("O valor da força é de " + forca + "N");
+
+//15ºQuestão
+var nota_1 = 10;
+var nota_2 = 8;
+var nota_3 = 7;
+var nota_4 = 5;
+
+var media = (nota_1 + nota_2 + nota_3 + nota_4) / 4;
+
+console.log
+("Média: " + media);
+
+//16ºQuestão
+var posicao_inicial = 5; // m
+var posicao_final = 23; // m
+
+var tempo = 6; // s
+
+var deslocamento = posicao_final - posicao_inicial;
+
+var velocidade_media = deslocamento / tempo;
+
+console.log("A velocidade média foi de " + velocidade_media + "m/s");
+
+//17ºQuestão
+
+var nome = "João";
+
+nome =  nome + " Pedro";
+
+console.log(nome);
+
+
+
+
+
+//18ºQuestão
+//19ºQuestão
+//20ºQuestão
+//21ºQuestão
