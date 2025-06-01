@@ -158,7 +158,3 @@ console.log(nome);
 
 
 
-//18ºQuestão
-//19ºQuestão
-//20ºQuestão
-//21ºQuestão
